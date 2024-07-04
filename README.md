@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hey! I'm Montes 👋 a web dev always on the go and always putting work on one of my projects, try my last one and best ever! 
+<br> 
+
+<p align="center">
+  <a href="https://bagsoup.com">bagsoup.com</a>
+  <br><br>
+  <a href="https://bagsoup.com">
+    <img src="https://bagsoup.com/img/logo-bagsoup.png" />
+  </a>
+</p>
 
 <!--
 **montes/montes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
